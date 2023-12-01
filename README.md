@@ -5,7 +5,7 @@ Welcome to the Repository of the BAIUST Computer Club Website!
 This website was developed as the final project for the Systems Analysis, Design & Development Sessional (CSE-402).</br>
 
 Later For Final Year Thesis / Project (CSE-400) BAIUST Programmers' Database and Ranklist is Developed.</br>
-Firstly Draft was Developed in [Django Flask](https://github.com/BAIUST-Computer-Club/django-cp-ranklist-draft) to get data from CodeForces API </br> 
+Firstly Draft was Developed in [Django Flask](https://github.com/tawsif-rahman-shopnil/django-flask-cp-ranklist) to get data from CodeForces API </br> 
 Than, To ease of access and database requirement and considering our server's compitability we convert it to PHP.
 
 ## Lead Developer
