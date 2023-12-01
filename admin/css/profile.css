@@ -1,0 +1,38 @@
+body {
+    margin-top: 20px;
+    background: #f8f8f8;
+  }
+  
+  .e-navlist--active-bg {
+    background-color: #f8f8f8;
+  }
+  
+  .e-profile .nav-tabs .nav-item .nav-link {
+    color: #333;
+  }
+  
+  .e-profile .nav-tabs .nav-item .nav-link.active {
+    background-color: #f8f8f8;
+    border-color: #dee2e6 #dee2e6 #fff;
+  }
+  
+  .e-profile .tab-content .tab-pane {
+    border: 1px solid #dee2e6;
+    padding: 20px;
+    background-color: #fff;
+  }
+  
+  .e-profile .tab-content .tab-pane .form-group label {
+    font-weight: bold;
+  }
+  
+  .e-profile .tab-content .tab-pane .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .e-profile .tab-content .tab-pane .btn-primary:hover {
+    background-color: #0069d9;
+    border-color: #0062cc;
+  }
+  

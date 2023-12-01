@@ -1,0 +1,208 @@
+body {
+    background: #0A0A0A url("data:image/gif;base64,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");
+    color: #3B0B17;
+}
+
+body,
+td,
+th {
+    font: 10px Lucida, Verdana;
+    margin: 0;
+    vertical-align: top;
+    color: #D8D8D8;
+}
+
+h2 {
+    border-left: 10px solid $color;
+    padding: 0px 0px;
+    font: 13px Verdana;
+    color: #D8D8D8;
+    margin: 0px;
+}
+
+table.info {
+    color: #fff;
+}
+
+span,
+info,
+h1,
+a {
+    color: $color !important;
+}
+
+span {
+    font-weight: bolder;
+}
+
+
+@import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
+
+:root {
+    --bgColor: #223344;
+    --bgColor2: #090a0f;
+    --accentColor: #FFF;
+    --font: 'Karla', sans-serif;
+    --delay: .3s;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    font-family: var(--font);
+}
+#logo, #logo img {
+    position: relative;
+    width: 400px;
+    height: 160px;
+    display: block;
+    margin: 40px auto 20px;
+    -webkit-tap-highlight-color: transparent;
+}
+
+#profilePicture, #profilePicture img {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: 40px auto 20px;
+    border-radius: 50%;
+    -webkit-tap-highlight-color: transparent;
+}
+
+#userName {
+    color: var(--accentColor);
+    font-size: 1rem;
+    font-weight: bold;
+    line-height: 1.25;
+    display: block;
+    font-family: 'Courier New', Courier, monospace;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+}
+
+#Name {
+    color: var(--accentColor);
+    font-size: 1.5rem;
+    font-weight: bold;
+    line-height: 1.25;
+    display: block;
+    font-family: Kalpurush;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+}
+
+#links {
+    max-width: 675px;
+    width: auto;
+    display: block;
+    margin: 27px auto;
+}
+
+.link {
+    position: relative;
+    background-color: transparent;
+    color: var(--accentColor);
+    border: solid var(--accentColor) 2px;
+    border-radius: 10px;
+    font-size: 1rem;
+    text-align: center;
+    display: block;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 10px; /* 17px */
+    text-decoration: none;
+    /* transition: all .25s cubic-bezier(.08, .59, .29, .99); */
+    -webkit-tap-highlight-color: transparent;
+}
+
+@media (hover: hover) {
+    .link:hover {
+        background-color: var(--accentColor);
+        color: var(--bgColor);
+    }
+}
+
+.link:active {
+    background-color: var(--accentColor);
+    color: var(--bgColor);
+}
+
+#hashtag {
+    position: relative;
+    padding-bottom: 20px;
+    color: var(--accentColor);
+    font-size: 1rem;
+    display: block;
+    font-family: var(--font);
+    width: 100%;
+    text-align: center;
+
+    /*  animation   */
+    overflow: hidden;
+    background: linear-gradient(90deg, var(--bgColor), var(--accentColor), var(--bgColor));
+    background-repeat: no-repeat;
+    background-size: 80%;
+    animation: animate 3s linear var(--delay) infinite;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: rgba(255, 255, 255, 0);
+}
+
+
+/*-------------------------animations-----------------------*/
+@keyframes transitionAnimation {
+    0% {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes animate {
+    0% {
+      background-position: -500%;
+    }
+    100% {
+      background-position: 500%;
+    }
+}
+
+@keyframes animStar {
+    from {
+        transform: translateY(0px);
+    }
+    to {
+        transform: translateY(-2000px);
+    }
+}
+
+.link {
+    display: block; /* Change "display" to "block" to stack the links vertically */
+    text-decoration: none;
+    color: #FFF;
+    margin: 10px;
+    padding: 10px;
+  }
+  
+  .link img {
+    width: 150px;
+    height: 30px;
+  }
+  
+  /* Rest of your existing CSS styles for .link elements */
+  
+  .cyber-wolfz-text {
+    color: rgb(251, 216, 216);
+    font-size: 25px;
+    text-align: center;
+    font-family: Kalpurush;
+    text-shadow: 0 0 10px #f41616, 0px 0px 5px #f41616, 0 0 10px #f41616, 0 0 5px #f41616;
+}
